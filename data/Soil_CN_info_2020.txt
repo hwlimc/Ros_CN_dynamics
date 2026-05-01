@@ -1,0 +1,27 @@
+trt	rep	dist.tree	angle	ba	ba_recorder	note
+F	C1	1	228	21	N	
+F	C3	1.13	114	24	R	next.hut
+F	B3	2.43	90	28	N	
+F	B4	1.38	184	23	R	
+F	B2	2	184	28	N	
+F	C2	2.4	90	17	R	roads
+F	C4	0.4	70	22	R	roads
+F	D2	2.45	220	17	R	
+F	D3	0.95	276	24	N	
+F	D4	1.05	126	26	N	
+F	S4	3	104	24	R	
+F	S2	2.54	282	19	N	
+F	S1	2.3	12	25	N	
+F	S3	4.04	248	25	N	
+C	B2	1	140	22	H	
+C	B3	0.75	130	27	N	
+C	B4	1	210	17	H	
+C	C4	1.55	2	24	N	
+C	C3	1.84	280	24	H	
+C	C2	1.5	14	28	N	next.hut
+C	S3	4.4	240	24	N	
+C	S2	2.3	26	27	H	
+C	S1	2.85	218	27	N	
+C	D2	1.75	300	15	N	
+C	D3	1.65	150	7	H	
+C	D4	1.65	90	25	H	

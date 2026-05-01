@@ -1,0 +1,109 @@
+year	year at the end of growing season
+plot	2= fertilised; 3=reference
+rep	mensuration plot
+d	diameter at 1.3m (m)
+h	tree height (m)
+lc	length of live crown (m)
+sd	stand density (tree ha-1)
+ba	Basal area (m2 ha-1)
+sa	sapwood area (m2 ha-1)
+Vst	stem volume (m3 ha-1)
+Vsw	stem wood volume (m3 ha-1)
+Bsb	stem bark (g dw m-2)
+Bbr	branch biomass (g dw m-2)
+Bcr	coarseroot biomass (g dw m-2)
+Bcn	cone biomass (g dw m-2)
+Bdb	dead branch (g dw m-2)
+Bf	foliage biomass (g dw m-2)
+dba	basal area increment (m2 ha-1 yr-1)
+dh	height increment (m yr-1)
+hbar	ratio of dh to dba
+hbare	ratio of dh to dba of earlywood
+dVst	stem volume increment (m3 ha-1 yr-1)
+dVsw	stem wood volume increment (m3 ha-1 yr-1)
+dVswe	earlywood volume increment (m3 ha-1 yr-1)
+dVswl	latewood volume increment (m3 ha-1 yr-1)
+dBsw	stem wood biomass increment (g dw m-2 yr-1)
+dBswe	early wood biomass increment (g dw m-2 yr-1)
+dBswl	late wood biomass increment (g dw m-2 yr-1)
+dBsb	stem bark biomass increment (g dw m-2 yr-1)
+dBbr	branch biomass increment (g dw m-2 yr-1)
+dBf	foliage biomass change between years (g dw m-2 yr-1)
+dBcr	coarseroot biomass increment (g dw m-2 yr-1)
+dBcn	cone biomass change between years (g dw m-2 yr-1)
+brt	branch turnover (g dw m-2 yr-1)
+needle.m	leaf litterfall (g dw m-2 yr-1)
+needle.se	leaf litterfall SE
+cone.m	cone litterfall (g dw m-2 yr-1)
+cone.se	cone litterfall SE
+twig.m	branch litterfall (g dw m-2 yr-1)
+twig.se	branch litterfall SE
+bark.m	bark litterfall (g dw m-2 yr-1)
+bark.se	bark litterfall SE
+mis.m	other litterfall (g dw m-2 yr-1)
+mis.se	other litterfall SE
+sum.m	total litterfall (g dw m-2 yr-1)
+sum.se	total litterfall SE
+smlf	summer time foliage litterfall (g dw m-2 yr-1)
+smlf.se	summer time foliage litterfall SE
+sla	specific leaf area (cm2 g-1)
+fsla	literfall's sla (cm2 g-1)
+sla.se	specific leaf area SE
+fsla.se	literfall's sla SE
+msd	maximum stand density (tree ha-1)
+rsd	relative stand density to the maximum
+log.ba	
+log.sd	
+lai.a	leaf area index at autumn
+lai.s	leaf area index at summer
+NPPsw	NPP of stem wood (g C m-2 yr-1)
+NPPswe	NPP of early wood
+NPPswl	NPP of late wood
+dVer	ratio of earlywood and total wood volume
+NPPer	ratio of NPPswe to NPPsw
+NPPsb	NPP of stem bark (g C m-2 yr-1)
+NPPbr	NPP of branch (g C m-2 yr-1)
+NPPf	NPP of foliage (g C m-2 yr-1)
+NPPcr	NPP of coarse-root (g C m-2 yr-1)
+NPPmis	NPP of other litterfall (g C m-2 yr-1)
+ANPP	aboveground NPP (g C m-2 yr-1)
+NPPw	NPP of woody biomass (stemwood, branches, cones, and coarse-roots; g C m-2 yr-1)
+NPP	NPPw+NPPf
+swe	wood density of earlywood (kg m-3)
+swl	wood density of latewood (kg m-3)
+swd	wood density (kg m-3)
+swer	ratio of swe to swd
+airT	annual mean air temperature
+vpd	annual mean VPD (kPa)
+vpdmn	annual mean VPD (kPa) using a different function
+ppt.6	precipitation in June
+gr.6	global radiation in June
+airT.6	mean air temperature in June
+vpd.6	
+vpdmn.6	
+ppt.7	
+gr.7	
+airT.7	
+vpd.7	
+vpdmn.7	
+ppt.8	
+gr.8	
+airT.8	
+vpd.8	
+vpdmn.8	
+start	onset of growing season
+end	end of growing season
+gs	length of growing season (days)
+hsum	temperature sum during the growing season
+hr20	hours during which temperature > 20°C
+hr0	hours during which temperature < 0°C
+ppt	precipitation during the growing season (mm growing season)
+rad	global radiation during the growing season
+N.con	foliar N concentration (mg g-1)
+P.con	foliar P concentration (mg g-1)
+P.pct	foliar N concentration (%)
+N.pct	foliar P concentration (%)
+PN	N:P ratio
+apar	APAR (MJ m-2 yr-1)
+luea	light use efficiency using autumn LAI (g C MJ)
+lue	light use efficiency using summer LAI (g C MJ)
