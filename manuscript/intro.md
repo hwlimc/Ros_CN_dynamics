@@ -1,0 +1,2 @@
+
+Productivity of boreal forests is generally nitrogen limited. Shifting the amount of mineral nitrogen in the soil can increase production of aboveground biomass. This can occur via three mechanisms: increasing canopy photosynthesis and shifting carbon allocation patterns from below to aboveground biomass. 

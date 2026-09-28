@@ -1,4 +1,4 @@
-library("doBy")
+install.packages("doBy")
 #library('data.table')
 library("segmented")
 library("nlme")

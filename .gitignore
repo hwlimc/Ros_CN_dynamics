@@ -14,6 +14,7 @@
 .Ruserdata
 .Rproj.user/
 *.Rproj
+logfiles/
 
 ############################
 # Temporary / backup files
@@ -58,6 +59,7 @@ Thumbs.db
 # *.xlsx
 #*.rds
 *.rdata
+bayes_outputs/
 
 ############################
 # Cache / intermediate data
@@ -69,7 +71,7 @@ temp/
 ############################
 # Other materials and data
 ############################
-# original_files/
+original_files/
 lit/
 .obsidian/
 renv/
@@ -79,7 +81,7 @@ renv/
 ############################
 # figures/
 # plots/
-output/
+# outputs/
 
 ############################
 # Environment / secrets
